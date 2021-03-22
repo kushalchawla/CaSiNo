@@ -12,7 +12,7 @@ We provide a novel dataset (referred to as CaSiNo) of 1030 negotiation dialogues
 # Each Dialogue in the Dataset
 
 **Participant Info**
-* Demographics
+* Demographics (Age, Gender, Ethnicity, Education)
 * Personality attributes (SVO and Big-5)
 * Preference order
 * Arguments for needing or not needing a specific item
