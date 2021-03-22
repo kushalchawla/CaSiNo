@@ -260,7 +260,7 @@ def save_everything(all_cv_outputs, ckptfile, cv_wise_file, hyp_wise_file):
         json.dump(hyp_wise, fp)
         
 input_files = [
-    PATH TO ANNOTATION FILES
+    PATH_TO_ANNOTATION_FILES
 ]
 
 all_data = get_all_data(input_files)
