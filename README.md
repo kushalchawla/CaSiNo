@@ -2,7 +2,7 @@
 
 This repository contains the dataset and the PyTorch code for **'CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems'**.
 
-We provide a novel dataset (referred to as CaSiNo) of 1030 negotiation dialogues. Two participates take the role of campsite neighbors and negotaite for *Food*, *Water*, and *Firewood* packages, based on their individual preferences and requirements. This design keeps the task tractable, while still facilitating linguistically rich and personal conversations.
+We provide a novel dataset (referred to as CaSiNo) of 1030 negotiation dialogues. Two participates take the role of campsite neighbors and negotiate for *Food*, *Water*, and *Firewood* packages, based on their individual preferences and requirements. This design keeps the task tractable, while still facilitating linguistically rich and personal conversations.
 
 # Repository Structure
 
@@ -34,5 +34,3 @@ To Be Added
 # LICENSE
 
 Please refer to the LICENSE file in the root repo folder for more details.
-
-
