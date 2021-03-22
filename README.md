@@ -1,1 +1,1 @@
-# casino-negotiation-dataset
+# CaSiNo
