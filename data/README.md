@@ -6,7 +6,7 @@ This directory contains the CaSiNo dataset along with the associated strategy an
 **casino_complete.json**: The complete set of 1030 dialogues in the CaSiNo dataset.\
 **casino_annotated.json**: The CaSiNo-Ann dataset containing the strategy annotations for a subset of 396 dialogues. The dialogues in this file can be mapped to their complete information in casino_complete.json using the dialogue_id key.
 
-# Negotiation Outcomes
+# Format for the outcome variables
 
 *points_scored*
  * Points gained for one single item are based on these rules - every high item: 5 , every medium item: 4, every low item: 3
