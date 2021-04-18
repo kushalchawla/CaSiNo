@@ -29,7 +29,15 @@ We provide a novel dataset (referred to as CaSiNo) of 1030 negotiation dialogues
 
 # References
 
-To Be Added
+If you use data or code in this repository, please cite our paper: 
+```
+@article{chawla2021casino,
+  title={CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems},
+  author={Chawla, Kushal and Ramirez, Jaysa and Clever, Rene and Lucas, Gale and May, Jonathan and Gratch, Jonathan},
+  journal={arXiv preprint arXiv:2103.15721},
+  year={2021}
+}  
+```
 
 # LICENSE
 
