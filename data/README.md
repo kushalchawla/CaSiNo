@@ -3,8 +3,7 @@ This directory contains the CaSiNo dataset along with the associated strategy an
 
 # File Descriptions
 
-**casino_complete.json**: The complete set of 1030 dialogues in the CaSiNo dataset.\
-**casino_annotated.json**: The CaSiNo-Ann dataset containing the strategy annotations for a subset of 396 dialogues. The dialogues in this file can be mapped to their complete information in casino_complete.json using the dialogue_id key.
+**casino.json**: The complete set of 1030 dialogues in the CaSiNo dataset, containing the conversations, participant information, and strategy annotations, wherever available.
 
 # Format for the outcome variables
 
@@ -13,7 +12,7 @@ This directory contains the CaSiNo dataset along with the associated strategy an
  * Final points can be computed by simply summing up the points for all the items that the participant is able to negotiate for, as per the final agreed deal.
  * If someone walks away, the final points are equal to 5 (equivalent of one high item), for both the participants.
 
-*satisfaction (How satisfied are you with the negotiation outcome?)* 
+*satisfaction (How satisfied are you with the negotiation outcome?)*
  * 5 possible values (Extremely dissatisfied, Slightly dissatisfied, Undecided, Slightly satisfied, Extremely satisfied)
  * For the analysis in the paper, these were encoded on a scale from 1 to 5 (with increasing satisfaction)
 
@@ -23,4 +22,6 @@ This directory contains the CaSiNo dataset along with the associated strategy an
 
 # Notes
 
-If you want to work with the participant demographics and personality attributes, please email us at kchawla@usc.edu
+For more information, please refer to the original dataset paper published at NAACL 2021 (https://aclanthology.org/2021.naacl-main.254.pdf).
+
+You can also reach out to us at kchawla@usc.edu (Kushal Chawla).
