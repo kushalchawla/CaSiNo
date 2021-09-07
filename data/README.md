@@ -1,9 +1,10 @@
 
 This directory contains the CaSiNo dataset along with the associated strategy annotations.
 
-# File Descriptions
+# Descriptions
 
-**casino.json**: The complete set of 1030 dialogues in the CaSiNo dataset, containing the conversations, participant information, and strategy annotations, wherever available.
+**casino.json**: The complete set of 1030 dialogues in the CaSiNo dataset, containing the conversations, participant information, and strategy annotations, wherever available.\
+**split**: Contains one random split of casino.json into train/valid/test.
 
 # Format for the outcome variables
 
